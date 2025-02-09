@@ -5,6 +5,9 @@
 </head>
 <body>
     <h1>Product Table</h1>
+    <a href="contact.php">Contact Form</a>
+   <br>
+    <a href="profile.php">Profile</a>
     <table border="1">
         <thead>
             <tr>

@@ -14,14 +14,56 @@
             </tr>
         </thead>
         <tbody>
-            <!-- Listing products 1 to 150 -->
-            
-            <!-- Generating products dynamically -->
-            <!-- Prices increase by $0.50, quantities increase by 10 -->
-            
-            <!-- Products 1 to 150 -->
-            
-            <!-- 1 to 50 already exist, adding 51 to 150 -->
+        <tr><td>Product 1</td><td>$5.00</td><td>10</td></tr>
+            <tr><td>Product 2</td><td>$5.50</td><td>20</td></tr>
+            <tr><td>Product 3</td><td>$6.00</td><td>30</td></tr>
+            <tr><td>Product 4</td><td>$6.50</td><td>40</td></tr>
+            <tr><td>Product 5</td><td>$7.00</td><td>50</td></tr>
+            <tr><td>Product 6</td><td>$7.50</td><td>60</td></tr>
+            <tr><td>Product 7</td><td>$8.00</td><td>70</td></tr>
+            <tr><td>Product 8</td><td>$8.50</td><td>80</td></tr>
+            <tr><td>Product 9</td><td>$9.00</td><td>90</td></tr>
+            <tr><td>Product 10</td><td>$9.50</td><td>100</td></tr>
+            <tr><td>Product 11</td><td>$10.00</td><td>110</td></tr>
+            <tr><td>Product 12</td><td>$10.50</td><td>120</td></tr>
+            <tr><td>Product 13</td><td>$11.00</td><td>130</td></tr>
+            <tr><td>Product 14</td><td>$11.50</td><td>140</td></tr>
+            <tr><td>Product 15</td><td>$12.00</td><td>150</td></tr>
+            <tr><td>Product 16</td><td>$12.50</td><td>160</td></tr>
+            <tr><td>Product 17</td><td>$13.00</td><td>170</td></tr>
+            <tr><td>Product 18</td><td>$13.50</td><td>180</td></tr>
+            <tr><td>Product 19</td><td>$14.00</td><td>190</td></tr>
+            <tr><td>Product 20</td><td>$14.50</td><td>200</td></tr>
+            <tr><td>Product 21</td><td>$15.00</td><td>210</td></tr>
+            <tr><td>Product 22</td><td>$15.50</td><td>220</td></tr>
+            <tr><td>Product 23</td><td>$16.00</td><td>230</td></tr>
+            <tr><td>Product 24</td><td>$16.50</td><td>240</td></tr>
+            <tr><td>Product 25</td><td>$17.00</td><td>250</td></tr>
+            <tr><td>Product 26</td><td>$17.50</td><td>260</td></tr>
+            <tr><td>Product 27</td><td>$18.00</td><td>270</td></tr>
+            <tr><td>Product 28</td><td>$18.50</td><td>280</td></tr>
+            <tr><td>Product 29</td><td>$19.00</td><td>290</td></tr>
+            <tr><td>Product 30</td><td>$19.50</td><td>300</td></tr>
+            <tr><td>Product 31</td><td>$20.00</td><td>310</td></tr>
+            <tr><td>Product 32</td><td>$20.50</td><td>320</td></tr>
+            <tr><td>Product 33</td><td>$21.00</td><td>330</td></tr>
+            <tr><td>Product 34</td><td>$21.50</td><td>340</td></tr>
+            <tr><td>Product 35</td><td>$22.00</td><td>350</td></tr>
+            <tr><td>Product 36</td><td>$22.50</td><td>360</td></tr>
+            <tr><td>Product 37</td><td>$23.00</td><td>370</td></tr>
+            <tr><td>Product 38</td><td>$23.50</td><td>380</td></tr>
+            <tr><td>Product 39</td><td>$24.00</td><td>390</td></tr>
+            <tr><td>Product 40</td><td>$24.50</td><td>400</td></tr>
+            <tr><td>Product 41</td><td>$25.00</td><td>410</td></tr>
+            <tr><td>Product 42</td><td>$25.50</td><td>420</td></tr>
+            <tr><td>Product 43</td><td>$26.00</td><td>430</td></tr>
+            <tr><td>Product 44</td><td>$26.50</td><td>440</td></tr>
+            <tr><td>Product 45</td><td>$27.00</td><td>450</td></tr>
+            <tr><td>Product 46</td><td>$27.50</td><td>460</td></tr>
+            <tr><td>Product 47</td><td>$28.00</td><td>470</td></tr>
+            <tr><td>Product 48</td><td>$28.50</td><td>480</td></tr>
+            <tr><td>Product 49</td><td>$29.00</td><td>490</td></tr>
+            <tr><td>Product 50</td><td>$29.50</td><td>500</td></tr>
             <tr><td>Product 51</td><td>$30.00</td><td>510</td></tr>
             <tr><td>Product 52</td><td>$30.50</td><td>520</td></tr>
             <tr><td>Product 53</td><td>$31.00</td><td>530</td></tr>
